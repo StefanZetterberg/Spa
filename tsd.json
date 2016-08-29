@@ -1,0 +1,48 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "node/node.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "express/express.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "mime/mime.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "config/config.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "chai/chai.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "q/Q.d.ts": {
+      "commit": "473232e5dbd179e9ee682fab12f796720f37b118"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "05359f14d10740e532fc0299c8f0e04faf6bda25"
+    }
+  }
+}

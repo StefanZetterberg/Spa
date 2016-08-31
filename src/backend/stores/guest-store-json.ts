@@ -1,6 +1,6 @@
-/// <reference path="../../../typings/tsd.d.ts" />
-/// <reference path="../../../typings/es6-promise/es6-promise.d.ts" />
-/// <reference path="../../../node_modules/pg/pg.d.ts" />
+/// <reference path="../typings/tsd.d.ts" />
+/// <reference path="../typings/es6-promise/es6-promise.d.ts" />
+/// <reference path="../node_modules/pg/pg.d.ts" />
 
 import {Common} from '../common/guest';
 import {Promise}  from 'es6-promise';

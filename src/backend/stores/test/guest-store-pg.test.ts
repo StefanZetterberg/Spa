@@ -1,6 +1,6 @@
-/// <reference path='../../../../typings/mocha/mocha.d.ts' />
-/// <reference path='../../../../typings/chai/chai.d.ts' />
-/// <reference path="../../../../node_modules/pg/pg.d.ts" />
+/// <reference path='../../typings/mocha/mocha.d.ts' />
+/// <reference path='../../typings/chai/chai.d.ts' />
+/// <reference path="../../node_modules/pg/pg.d.ts" />
 
 import * as SQL from 'sqlcmd-pg';
 

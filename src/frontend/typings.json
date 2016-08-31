@@ -1,0 +1,10 @@
+{
+  "name": "spa",
+  "dependencies": {
+    "react": "github:cantide5ga/typed-react#42692d400db3c333394ec75bce9f6d09b5a0a769"
+  },
+  "devDependencies": {},
+  "ambientDependencies": {
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#f9117cf5dd3420b4fcb4342bf287945695a953a4"
+  }
+}
